@@ -5,8 +5,8 @@
 
 ### 👨‍🔧‍ Source 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jilaokang&repo=coder-dictionary)](https://github.com/jilaokag/coder-dictionary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jilaokang&repo=pure-layout)](https://github.com/jilaokag/pure-layout)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jilaokang&repo=coder-dictionary)](https://github.com/jilaokang/coder-dictionary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jilaokang&repo=pure-layout)](https://github.com/jilaokang/pure-layout)
 
 ### 🤖 Contribution
 
